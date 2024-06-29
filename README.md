@@ -14,10 +14,6 @@ This is the code for the paper "Incremental Task Replanning Algorithm for Multi-
 * In the `main.py` file, you can define the parameters of the drone and the mission, which can be randomly generated or specified manually. You can also define in the main function when and what attributes the drone will be destroyed or when a new task will be added.
 
 
-# Usage
-When installing Python, which can be directly downloaded from the official Python website, it is advisable to add Python to the environment variables during the installation process to avoid separate configurations later. 
 
-
-**Tips**:`PyCharm` is a comprehensive integrated development environment (IDE) tailored for Python programming. It offers robust features for code completion, debugging, testing, and version control. Regardless of whether you use PyCharm or any other IDE, you can simply double-click `Main.py` to open and execute it directly.
-
+**Tips**:The experimental code was written in `Python3.12`, and the tool used was `PyCharm`.
 
